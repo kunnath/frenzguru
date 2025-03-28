@@ -144,7 +144,7 @@ Deine Lisa
 
 exam_info = {
     "Passing Requirements": {
-        "description": "To pass the Goethe-Zertifikat B1 exam, you must:",
+        "description": "To pass the Zertifikat B1 exam, you must:",
         "requirements": [
             "Score at least 60% overall (180 points)",
             "Score at least 60% in each module (Reading, Writing, Listening, Speaking)"
