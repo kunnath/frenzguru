@@ -127,7 +127,7 @@ exam_data = {
 
 # Main app
 def main():
-    st.title("Goethe B1 Prüfungsstrategien")
+    st.title(" B1 Prüfungsstrategien")
     st.markdown("""
     **Praktische Anleitung für jeden Prüfungsteil**  
     *Konzentriert auf reine Prüfungsvorbereitung*
